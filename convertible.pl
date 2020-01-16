@@ -1,7 +1,7 @@
 /*************************************************************************
 	
 	File: convertible.pl
-	Written by Tran Quang Trung
+	Written by Trung Q. Tran
 	
 	This file defines DCG rules for the first step and third step in 
 	three-steps conversion. 

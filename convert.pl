@@ -1,7 +1,7 @@
 /*************************************************************************
 	
 	File: convert.pl
-	Written by Tran Quang Trung	
+	Written by Trung Q. Tran
 	
 	This file defines three-steps conversion and its second step.
 	
