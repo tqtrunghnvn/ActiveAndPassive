@@ -9,14 +9,9 @@ For more details, see the paper [here](https://arxiv.org/abs/2001.05672)
 If you see this work is useful, please cite it:
 ```
 @article{tran2020aandp,
-
   title={AandP: Utilizing Prolog for converting between active sentence and passive sentence with three-steps conversion},
-
   author={Tran, Trung Q},
-
   journal={arXiv preprint arXiv:2001.05672},
-
   year={2020}
-
 }
 ```
